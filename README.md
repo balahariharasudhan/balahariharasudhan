@@ -5,10 +5,10 @@ Hi there! 👋 I'm **Balahariharasudhan**, a passionate **BE-ECE Graduate** driv
 💡 I love exploring the possibilities of Generative AI, Large Language Models, and Smart Data Solutions. From data cleaning to deploying intelligent AI agents - I enjoy building **end-to-end systems** that solve real-world problems.
 
 🛠️ **My Expertise Includes**:
-- 🔹 Python, SQL, Power BI  
-- 🔹 Deep Learning, Generative AI, Prompt Engineering  
-- 🔹 Computer Vision, OCR, LangChain, LLMs  
-- 🔹 Data Analytics, AI Workflows, RAG Pipelines
+ 🔹 Python, SQL, Power BI  
+ 🔹 Deep Learning, Generative AI, Prompt Engineering  
+ 🔹 Computer Vision, OCR, LangChain, LLMs  
+ 🔹 Data Analytics, AI Workflows, RAG Pipelines
 
 🚀 **Current Project**:  
 **"RAG-Based Chatbot for Smart Customer Support Documents"**  
