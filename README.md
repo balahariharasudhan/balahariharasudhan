@@ -6,7 +6,7 @@ I engineer end-to-end AI solutions using LangChain, FAISS, Groq, and Streamlit.
 Currently open to **AI Engineer / ML Engineer / Data Scientist** roles.
 
 📌 **Featured project:** [RAG Chatbot for Customer Support Docs](https://github.com/balahariharasudhan/RAG-Based-Chatbot-for-Smart-Customer-Support-Documents)  
-📄 **Resume:** [View here]([https://linkedin.com/in/balahariharasudhant](https://drive.google.com/file/d/1JYhUFC2fuoAQLcKfbQaJE0HfWY6fVHw5/view?usp=sharing)) · 💼 **LinkedIn:** [balahariharasudhant](https://linkedin.com/in/balahariharasudhant)
+📄 **Resume:** [View here](https://drive.google.com/file/d/1JYhUFC2fuoAQLcKfbQaJE0HfWY6fVHw5/view?usp=sharing) · 💼 **LinkedIn:** [balahariharasudhant](https://linkedin.com/in/balahariharasudhant)
 
 ---
 
