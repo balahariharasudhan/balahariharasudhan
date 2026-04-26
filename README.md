@@ -90,7 +90,10 @@ To become an AI Product Engineer capable of designing **scalable, real-time, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=balahariharasudhan&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balahariharasudhan&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balahariharasudhan&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=balahariharasudhan&hide_border=true)
