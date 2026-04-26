@@ -1,36 +1,26 @@
-# 💫 About Me
+# Balahariharasudhan T — AI/ML Engineer
 
-Hi there! 👋 I'm **Balahariharasudhan**, a passionate **BE-ECE Graduate** driven by curiosity and innovation in the world of **Data Analytics**, **AI**, and **Machine Learning**.
+> Building systems that think — RAG pipelines · LLM apps · AI agents · Data analytics
 
-💡 I love exploring the possibilities of Generative AI, Large Language Models, and Smart Data Solutions. From data cleaning to deploying intelligent AI agents - I enjoy building **end-to-end systems** that solve real-world problems.
+I engineer end-to-end AI solutions using LangChain, FAISS, Groq, and Streamlit.  
+Currently open to **AI Engineer / ML Engineer / Data Scientist** roles.
 
-🛠️ **My Expertise Includes**:
+📌 **Featured project:** [RAG Chatbot for Customer Support Docs](https://github.com/balahariharasudhan/RAG-Based-Chatbot-for-Smart-Customer-Support-Documents)  
+📄 **Resume:** [View here](https://linkedin.com/in/balahariharasudhant) · 💼 **LinkedIn:** [balahariharasudhant](https://linkedin.com/in/balahariharasudhant)
 
- 🔹 Python, SQL, Power BI  
- 🔹 Deep Learning, Generative AI, Prompt Engineering  
- 🔹 Computer Vision, OCR, LangChain, LLMs  
- 🔹 Data Analytics, AI Workflows, RAG Pipelines
+---
 
-🚀 **Current Project**:  
-**"RAG-Based Chatbot for Smart Customer Support Documents"**  
-Built a fully functional Retrieval-Augmented Generation (RAG) chatbot that extracts insights from unstructured PDF documents using:
-- Tesseract OCR  
-- Hugging Face Embeddings (`all-MiniLM-L6-v2`)  
-- LangChain  
-- FAISS  
-- Groq LLM API  
-- Streamlit Interface  
+## 🛠️ What I build
 
-🌱 **Learning & Experimenting With**:
-- Fine-Tuning LLMs  
-- Autonomous AI Agents & Workflow Automation (n8n, ComfyUI)  
-- Advanced RAG Architectures  
-- LLMOps & Production-ready ML Pipelines
+| Area | Tools |
+|------|-------|
+| RAG & LLM Apps | LangChain · FAISS · Groq API · HuggingFace |
+| AI Agents & Automation | n8n · LangGraph · REST APIs |
+| Data Analytics | Python · SQL · Power BI · Pandas |
+| ML & Deep Learning | PyTorch · Scikit-Learn · TensorFlow |
+| Deployment | Streamlit · Flask · HuggingFace Spaces |
 
-🎯 **Goal**:  
-To become an AI Product Engineer capable of designing **scalable, real-time, and intelligent systems** that make a difference.
-
-🔗 Let’s connect and innovate together!
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balahariharasudhant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balahariharasudhan6095@gmail.com) 
